@@ -1,1 +1,1 @@
-# ![Snake animation] Gabriel-Dos-S-N-Martins
+Gabriel-Dos-S-N-Martins
